@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="httpcomponents-client-4.5.1/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/aspectjtools-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jdeb-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder/Untitled Folder/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder 2/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder 2/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder 2/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder 2/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptesh/Desktop/Untitled Folder 2/jsp-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
