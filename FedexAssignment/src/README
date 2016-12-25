@@ -1,1 +1,35 @@
+Java application to create a background simulation framework to display tracking information for the package delivery system.
+Requirements which afe implemented: 
+•	Implement a database of 100,000 packages with attributes-1. Shipment Details 2. Travel History.
+•	A user should be able to query the system with a unique tracking number and get detailed results.
+•	The system should compute shortest path for delivery of a package through the list of distribution centers.
+List of Distribution Centers-
+Northborough, MA
+Edison, NJ
+Pittsburgh, PA
+Allentown, PA
+Martinsburg, WV
+Charlotte, NC
+Atlanta, GA
+Orlando, FL
+Memphis, TN
+Grove City, OH
+Indianapolis, IN
+Detroit, MI
+New Berlin, WI
+Minneapolis, MN
+St. Louis, MO
+Kansas, KS
+Dallas, TX
+Houston, TX
+Denver, CO
+Salt Lake City, UT
+Phoenix, AZ
+Los Angeles, CA
+Chino, CA
+Sacramento, CA
+Seattle, WA
+
+•	The application should take as an input a tracking no and print the tracking details of the package as shown below.
+
 
